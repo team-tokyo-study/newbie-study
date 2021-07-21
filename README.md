@@ -8,4 +8,4 @@
 
 ### 스터디 시작일 : 7월 21일 추가
 
-#### https://github.com/team-tokyo-study/newbie-study/issues/4
+#### https://github.com/team-tokyo-study/newbie-study
