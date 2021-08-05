@@ -1,1 +1,32 @@
-.href{color: red;}
+body{
+    background-image: url("/img/DAEJIN_Background2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.main-flame{
+    text-align: center;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{
+    margin-top: 50px;
+   
+
+}
+.menu{
+margin-top: 50px;
+
+}
+
+.menu-img{
+    float: left;
+}
+
+.copyright{
+    margin-top: 50px;
+}
